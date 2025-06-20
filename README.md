@@ -1,4 +1,4 @@
-**Java Long Programs**
+# Java Long Programs
 
 **1. GUI Calculator:**
 A JavaFX-based calculator with a graphical user interface. It supports basic arithmetic operations (addition, subtraction, multiplication, division) with responsive button inputs, a styled layout, and live result display.
